@@ -9,7 +9,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-## <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/4c5a3c20-5352-420b-b9b7-5fa58a890b70" /> Frontend
+## <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/4c5a3c20-5352-420b-b9b7-5fa58a890b70" />  Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
