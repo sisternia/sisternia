@@ -1,7 +1,7 @@
 # 💻 Tech Stack
 
 ## 🖥️ Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=cpp,java,kotlin,php,js,ts,dart)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,java,kotlin,js,ts,dart,php)](https://skillicons.dev)
 
 ## 🌐 Frontend
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind)](https://skillicons.dev)
@@ -13,7 +13,4 @@
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
 
 ## ☁️ Cloud & DevOps
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,heroku,vercel,apache,nginx)](https://skillicons.dev)
-
-## 🔧 Tools
-[![My Skills](https://skillicons.dev/icons?i=yarn)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,heroku,vercel,nginx)](https://skillicons.dev)
