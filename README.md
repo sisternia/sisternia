@@ -3,7 +3,7 @@
 ## 🖥️ Programming Languages
 [![My Skills](https://skillicons.dev/icons?i=cpp,java,kotlin,js,ts,dart,php)](https://skillicons.dev)
 
-## 🌐 Frontend
+## <img src="https://skillicons.dev/icons?i=html" width="25"/> Frontend
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind)](https://skillicons.dev)
 
 ## ⚙️ Frameworks & Libraries
